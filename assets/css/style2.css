@@ -1,0 +1,17 @@
+.my-header{
+    color: #ffffff;
+    background-color: rgb(0,0,0);
+}
+.Image{
+    background-color: rgb(255, 0 ,0);
+}
+.main-item{
+    background-image: url(../image/img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+.footer{
+    background-color: white;
+    color: black;
+}
